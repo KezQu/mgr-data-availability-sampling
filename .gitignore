@@ -1,0 +1,55 @@
+# LaTeX auxiliary and build files
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.lof
+*.log
+*.lol
+*.lot
+*.out
+*.run.xml
+*.synctex
+*.synctex.gz
+*.synctex.gz(busy)
+*.toc
+*.xdv
+*.dvi
+*.nav
+*.snm
+*.vrb
+*.idx
+*.ilg
+*.ind
+*.glo
+*.glg
+*.gls
+*.ist
+*.acn
+*.acr
+*.alg
+*.loa
+*.listing
+_minted*/
+
+# Generated thesis PDF (keep reference PDFs and graphics)
+/praca/praca.pdf
+
+# Editor temporary files and backups
+*~
+*.swp
+*.swo
+*.bak
+*.tmp
+.\#*
+\#*#
+
+# Operating system metadata
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+materials/
+plan_dzialania_DAS.md
